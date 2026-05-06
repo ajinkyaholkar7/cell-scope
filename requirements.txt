@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+Pillow
+scikit-image
+reportlab
+plotly
+openpyxl
+supabase
+qrcode[pil]
