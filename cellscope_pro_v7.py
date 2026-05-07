@@ -17,12 +17,6 @@ Run:
 """
 
 import streamlit as st
-
-st.set_page_config(
-    page_title="CellScope Pro",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
 import cv2
 import numpy as np
 from PIL import Image, ImageEnhance
